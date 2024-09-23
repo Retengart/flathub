@@ -9960,6 +9960,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/xmltree/xmltree-0.11.0.crate",
+        "sha256": "b619f8c85654798007fb10afa5125590b43b088c225a25fc2fec100a9fad0fc6",
+        "dest": "cargo/vendor/xmltree-0.11.0"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"b619f8c85654798007fb10afa5125590b43b088c225a25fc2fec100a9fad0fc6\", \"files\": {}}",
+        "dest": "cargo/vendor/xmltree-0.11.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/xmlwriter/xmlwriter-0.1.0.crate",
         "sha256": "ec7a2a501ed189703dba8b08142f057e887dfc4b2cc4db2d343ac6376ba3e0b9",
         "dest": "cargo/vendor/xmlwriter-0.1.0"
